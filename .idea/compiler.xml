@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dp-deal-model" />
+        <module name="dp-deal-service-user" />
+        <module name="dp-deal-gateway-user" />
+        <module name="dp-deal-service-admin" />
+        <module name="dp-deal-common" />
+        <module name="dp-deal-gateway-admin" />
+        <module name="dp-deal-utils" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="17" />
+  </component>
+</project>
